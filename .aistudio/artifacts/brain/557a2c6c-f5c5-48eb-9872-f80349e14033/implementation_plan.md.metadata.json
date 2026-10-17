@@ -1,0 +1,6 @@
+{
+  "summary": "Implementation plan for propagating upline Referral Max Bonus Limit changes to all direct downline reseller accounts (unless custom override exists), updating their resellerMargin and wholesale prices instantly.",
+  "updatedAt": "2026-10-16T06:06:27.101656811Z",
+  "requestFeedback": true,
+  "userFacing": true
+}
